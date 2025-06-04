@@ -40,7 +40,7 @@ DAX for calculated measures
 Data transformation using Power Query
 
 📸 Screenshot
-
+Dashboard Preview - https://github.com/Divi-45/Sales-Insights-of-AtliQ-Hardware/blob/main/Snapshot%20of%20the%20dashboard.png
 
 🧠 Insights Derived
 Identified seasonal sales patterns.
